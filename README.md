@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VagishM6
-- 👀 I’m interested in Programming 💻and Infromation Security ☠️
+- 👀 I’m interested in Programming 💻 & Infromation Security ☠️
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me...
 
