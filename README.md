@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VagishM6
 - 👀 I’m interested in Programming 💻 & Infromation Security ☠️
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me iamvagish6@gmail.com
 
 <!---
