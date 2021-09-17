@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VagishM6
 - 👀 I’m interested in Programming 💻 & Information Security ☠️
 - ⚡️ Fun Fact: ❤️🎮
-- 🌊 "You've never been to the ocean? In Heaven, that's all they talk about..." -Rutger Hauer, Knockin On Heavens Door
+- 🖊️ Only at the precipice do we evolve
 - 📫 How to reach me iamvagish6@gmail.com
 <!---
 VagishM6/VagishM6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
