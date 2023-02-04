@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VagishM6
-- 👀 I’m interested in Software Development 💻 & Information Security ☠️
+- 👀 Interested in Software Development 💻 & Information Security ☠️
 - ⚡️ Fun Fact: ❤️🎮
 - 🖊️ _Only at the precipice do we evolve_
 <!---
