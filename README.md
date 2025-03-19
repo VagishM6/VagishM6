@@ -11,7 +11,7 @@ I'm a **Full-Stack Web Developer** with expertise in **React.js, React Native, a
 - **Hotel-Room-Booking ML Integration App** – A machine learning-powered recommendation system built with **React.js & Flask API**.  
 - **Artificial Life Particle Simulation** – A JavaScript simulation using the **Canvas API** to create dynamic particle behavior.  
 
-I'm passionate about **building interactive applications**, exploring **AI & automation**, and diving into **dropshipping & e-commerce**.  
+I'm passionate about **building interactive applications**, and exploring **AI & automation**.  
 
 💡 Always open to **collaborations** and new opportunities! Let's connect.  
 
